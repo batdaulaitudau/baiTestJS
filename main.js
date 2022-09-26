@@ -202,10 +202,6 @@ function sapXepTuoiSV() {
     console.log(dsSV);    
 }
 
-//  fs.writeFile('./SV.txt', JSON.stringify(CSDLSV), function (err, data) {
-//     if (err) {return console.error(err);}})
- // ghi dữ liệu vào file txt
-
  while (flag == true) {
     menu()
  }
